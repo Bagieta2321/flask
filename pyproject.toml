@@ -28,7 +28,7 @@ dependencies = [
     "markupsafe>=2.1.1",
     "werkzeug>=3.1.0",
 ]
-
+"#zmiana osoba A"
 [project.optional-dependencies]
 async = ["asgiref>=3.2"]
 dotenv = ["python-dotenv"]
